@@ -215,7 +215,7 @@ function main() {
     #sleep $(shuf -i 1-10800 -n 1)
     login
     membercenter
-    jfdouble
+    #jfdouble
     #openChg
     #rm -rf $workdir
     echo; echo $(date) 1*******${username:0-4} Accomplished.  Thanks!
